@@ -7,7 +7,7 @@ Long answer: "because ~fuck you~ I can, that's why".
 
 ## Installation
 ```sh
-# git clone https://github.com/vemperor/template-renderer.git
+# git clone https://github.com/ivalentinee/template-renderer.git
 # cp template-renderer/template-renderer.rb /usr/bin/render-template
 # chmod a+x /usr/bin/render-template
 ```
